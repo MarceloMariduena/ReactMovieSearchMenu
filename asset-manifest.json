@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactMovieSearchMenu/static/css/main.26bcb91e.chunk.css",
+    "main.js": "/ReactMovieSearchMenu/static/js/main.6fe48690.chunk.js",
+    "main.js.map": "/ReactMovieSearchMenu/static/js/main.6fe48690.chunk.js.map",
+    "runtime~main.js": "/ReactMovieSearchMenu/static/js/runtime~main.c77194c3.js",
+    "runtime~main.js.map": "/ReactMovieSearchMenu/static/js/runtime~main.c77194c3.js.map",
+    "static/js/2.47c941ab.chunk.js": "/ReactMovieSearchMenu/static/js/2.47c941ab.chunk.js",
+    "static/js/2.47c941ab.chunk.js.map": "/ReactMovieSearchMenu/static/js/2.47c941ab.chunk.js.map",
+    "index.html": "/ReactMovieSearchMenu/index.html",
+    "precache-manifest.3219b5f3b8f3184dc426215ded2e4239.js": "/ReactMovieSearchMenu/precache-manifest.3219b5f3b8f3184dc426215ded2e4239.js",
+    "service-worker.js": "/ReactMovieSearchMenu/service-worker.js",
+    "static/css/main.26bcb91e.chunk.css.map": "/ReactMovieSearchMenu/static/css/main.26bcb91e.chunk.css.map",
+    "static/media/darkKnight.jpg": "/ReactMovieSearchMenu/static/media/darkKnight.2e897147.jpg",
+    "static/media/darkKnightRises.jpeg": "/ReactMovieSearchMenu/static/media/darkKnightRises.d88b828b.jpeg",
+    "static/media/fightClub.jpg": "/ReactMovieSearchMenu/static/media/fightClub.b3defc07.jpg",
+    "static/media/goneGirl.jpg": "/ReactMovieSearchMenu/static/media/goneGirl.e0cadb77.jpg",
+    "static/media/infinityWar.jpg": "/ReactMovieSearchMenu/static/media/infinityWar.236f2f0c.jpg",
+    "static/media/nightcrawler.jpg": "/ReactMovieSearchMenu/static/media/nightcrawler.0eb6e9c6.jpg",
+    "static/media/theHouseThatJackBuilt.jpg": "/ReactMovieSearchMenu/static/media/theHouseThatJackBuilt.bd2b6102.jpg",
+    "static/media/unbreakable.jpg": "/ReactMovieSearchMenu/static/media/unbreakable.f3343a7b.jpg"
+  }
+}
